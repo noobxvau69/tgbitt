@@ -1,6 +1,6 @@
 module.exports = {
     dashboardPassword: "your-password",
-    logType: "json",
+    logType: "tgBot",
     note: "Change this to 'mongodb', 'tgBot' or 'json' as needed",
     timezone: "Asia/Dhaka",
     bot: {
